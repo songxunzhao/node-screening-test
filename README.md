@@ -43,4 +43,7 @@ If not launched automatically, please type http://localhost:3000 in browser addr
 
 ## Test consideration
 A User can't create ADMIN/MANAGER itself from register page, because of security reason. 
-The user will have NORMAL role as a default.   
+The user will have NORMAL role as a default. 
+
+Please create an admin user with the following command and change NORMAL user permission to ADMIN user permission.
+ 
