@@ -186,3 +186,16 @@
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
 {"service":"api-service","role":"ADMIN","isDeleted":false,"name":"song","email":"song@gmail.com","password":"$2a$08$asqZBp2JxNiYcYXiJ2nsJ.CU.oNRnnOtVOf2VG2xn8iFS11pRyz/C","id":6,"createdAt":"2020-11-01T06:41:44.000Z","updatedAt":"2020-11-01T06:41:44.000Z","level":"info","message":"Created admin user"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}

@@ -30,6 +30,7 @@ $ cd ./server
 $ yarn install
 $ yarn start
 ```
+Server will run on 8000 port.
 
 ### Run client
 ```
@@ -41,6 +42,7 @@ $ yarn start
 Once yarn start is successful, it will launch http://localhost:3000 in the browser. 
 If not launched automatically, please type http://localhost:3000 in browser address.
 
+React app is proxied to 8000 port, thus you can just play with client application.
 ## Test consideration
 A User can't create ADMIN/MANAGER itself from register page, because of security reason. 
 The user will have NORMAL role as a default. 

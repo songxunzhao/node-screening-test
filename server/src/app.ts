@@ -6,6 +6,7 @@ import {RegistrableController} from './controllers/registrable_controller';
 import container from './inversify.config';
 import TYPES from './types';
 import config from './config';
+import path from 'path';
 
 const app = express();
 app.use(cors());
@@ -22,5 +23,11 @@ controllers.forEach(controller => controller.register(router));
 app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
     res.status(500).send('Internal Server Error');
 });
+
+app.use(express.static('webapp'))
+app.get('/*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../webapp', 'index.html'));
+});
+
 
 export default app;

@@ -15,13 +15,13 @@ import {
     TableHead,
     TableRow, TextField
 } from "@material-ui/core";
-import {CloudDownload, Create, Delete, Edit, Search} from "@material-ui/icons";
+import {CloudDownload, Create, Delete, Edit, Search, TrendingUp} from "@material-ui/icons";
 import {makeStyles} from "@material-ui/core/styles";
-import {DepositModel} from "../../models";
+import {DepositModel} from '../../models';
 import {useHistory} from "react-router";
 import {Alert} from "@material-ui/lab";
 import pageStyles from '../styles';
-import {formatter} from "../../helpers/formatter";
+import {formatter} from '../../helpers';
 
 const useStyles = makeStyles((theme) => ({
     searchBar: {
@@ -128,7 +128,7 @@ const DepositListPage = (props: ComponentProps<any>) => {
                             <Create/>Create
                         </Button>
                         <Button variant='contained' color='primary' className={classes.searchBarButton} onClick={handleDownload}>
-                            <CloudDownload/>Revenue Report
+                            <TrendingUp/>Revenue Report
                         </Button>
                     </Grid>
                 </Grid>
