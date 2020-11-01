@@ -1,0 +1,8 @@
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"message":"Missing required @injectable annotation in: DepositController.","level":"error","service":"api-service"}
+{"message":"SQLITE_CONSTRAINT: NOT NULL constraint failed: temporary_user.role","level":"error","service":"api-service"}
+{"message":"SQLITE_CONSTRAINT: NOT NULL constraint failed: temporary_deposit.userId","level":"error","service":"api-service"}

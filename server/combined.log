@@ -1,0 +1,183 @@
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"level":"error","service":"api-service"}
+{"message":"Missing required @injectable annotation in: DepositController.","level":"error","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"SQLITE_CONSTRAINT: NOT NULL constraint failed: temporary_user.role","level":"error","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"SQLITE_CONSTRAINT: NOT NULL constraint failed: temporary_deposit.userId","level":"error","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"Getting 401 error","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: undefined","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"Getting 401 error: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"Unauthorized","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"Unauthorized: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InNvbmd4dW56aGFvIiwiZW1haWwiOiJzb25neHVuemhhbzE5OTFAZ21haWwuY29tIiwiaWF0IjoxNjA0MDc0MzQ2LCJleHAiOjE2MDQwNzc5NDZ9.yf_ftTpyXOelsfv97pX9dN6MdxOznJteqoCmmFPUIX4","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"jwt expired","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
