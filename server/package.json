@@ -8,7 +8,8 @@
     "build": "tsc --project ./",
     "start": "NODE_ENV=development node_modules/.bin/nodemon --exec 'yarn run lint && node_modules/.bin/ts-node src/index.ts'",
     "lint": "node_modules/.bin/tslint 'src/**/*.ts' -t verbose --force",
-    "typeorm": "node --require ts-node/register ./node_modules/typeorm/cli.js"
+    "typeorm": "node --require ts-node/register ./node_modules/typeorm/cli.js",
+    "create-admin": "node_modules/.bin/ts-node src/cli.ts"
   },
   "repository": {
     "type": "git",
@@ -45,6 +46,7 @@
     "@types/jest": "^26.0.15",
     "@types/node": "^14.11.11",
     "@types/supertest": "^2.0.10",
+    "@types/yargs": "^15.0.9",
     "jest": "^26.6.1",
     "nodemon": "^2.0.6",
     "supertest": "^5.0.0",
@@ -52,6 +54,7 @@
     "ts-node": "^9.0.0",
     "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "^4.0.3"
+    "typescript": "^4.0.3",
+    "yargs": "^16.1.0"
   }
 }
