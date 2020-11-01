@@ -181,3 +181,4 @@
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":{"raw":[]},"level":"info","service":"api-service"}
