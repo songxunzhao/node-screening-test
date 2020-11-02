@@ -23,6 +23,9 @@ const useStyles = makeStyles((theme) => ({
     nav: {
         flexGrow: 1,
     },
+    title: {
+        marginBottom: theme.spacing(2)
+    },
     link: {
         color: 'white',
         fontSize: '1.2em',
@@ -76,18 +79,26 @@ const HomePage = (props: ComponentProps<any>) => {
     const handleViewUser = () => {
         history.push('/users')
     }
+    const getUserRoleDescription = (role: string) => {
+        const roles: {[key: string]: string} = {
+            'ADMIN': 'admin',
+            'MANAGER': 'manager',
+            'NORMAL': 'guest'
+        }
+        return roles[role]
+    }
 
     return (
         <>
             <NavBar/>
             <Container fixed className={pageClasses.page}>
                 <section>
-                    <Typography variant='h3'>
+                    <Typography variant='h3' className={classes.title}>
                         Welcome to Dashboard!
                     </Typography>
-                    <p>
-                        This is test dashboard developed by Zhao. Please leave us feedback for more features and better look.
-                    </p>
+                    <Typography variant='h5'>
+                        Hey <b>{user.name}!</b> You are {getUserRoleDescription(user.role)}.
+                    </Typography>
                 </section>
                 <section className={classes.operationSection}>
                     <Typography variant='h4'>Deposit</Typography>

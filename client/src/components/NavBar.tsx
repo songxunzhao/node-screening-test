@@ -74,6 +74,7 @@ const NavBar = (props: ComponentProps<any>) => {
                 </div>
 
                 <div>
+                    { user.name }
                     <IconButton
                         aria-label="account of current user"
                         aria-controls="menu-appbar"

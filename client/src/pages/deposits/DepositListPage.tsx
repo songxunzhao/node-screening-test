@@ -114,8 +114,8 @@ const DepositListPage = (props: ComponentProps<any>) => {
                 {error !== '' && <Alert severity='error'>{error}</Alert>}
                 <Grid container spacing={3} className={classes.tableBar}>
                     <Grid item className={classes.searchBar}>
-                        <TextField label='Start' name='from' type='date' className={classes.searchDate} onChange={handleSearchChange}/>
-                        <TextField label='Expire' name='to' type='date' className={classes.searchDate} onChange={handleSearchChange}/>
+                        <TextField label='From' name='from' type='date' className={classes.searchDate} onChange={handleSearchChange}/>
+                        <TextField label='To' name='to' type='date' className={classes.searchDate} onChange={handleSearchChange}/>
                         <TextField label='Min' name='min' type='number' className={classes.searchAmount} onChange={handleSearchChange}/>
                         <TextField label='Max' name='max' type='number' className={classes.searchAmount} onChange={handleSearchChange}/>
                         <TextField label='Bank Name' name='bank' type='search' className={classes.searchDate} onChange={handleSearchChange}/>
