@@ -1,4 +1,3 @@
-# Toptal Testing Project
 ## Project Specification
 Write an application for managing savings deposits
 
@@ -11,10 +10,7 @@ User can filter saving deposits by the amount (minimum and maximum), bank name a
 User can generate a revenue report for a given period, that will show the gains and losses from interest and taxes for each deposit. The amount should be green or red if respectively it represents a gain or loss. The report should show the sum of profits and losses at the bottom of that period. 
 The computation of profit/loss is done on a daily basis. Consider that a year is 360 days. 
 REST API. Make it possible to perform all user actions via the API, including authentication.
-In any case, you should be able to explain how a REST API works and demonstrate that by creating functional tests that use the REST Layer directly. Please be prepared to use REST clients like Postman, cURL, etc. for this purpose.
-If it’s a web application, it must be a single-page application. All actions need to be done client-side using AJAX, refreshing the page is not acceptable.
-Functional UI/UX design is needed. You are not required to create a unique design, however, do follow best practices to make the project as functional as possible.
-Bonus: unit and e2e tests.
+Unit and e2e tests.
 
 ## Project Structure
 This project consists of two parts - server and client. Here are platform and frameworks used for server and client.

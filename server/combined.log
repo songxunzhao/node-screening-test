@@ -200,3 +200,9 @@
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
 {"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":"[Server]: Server is running at https://localhost:8000","level":"info","service":"api-service"}
+{"message":7,"level":"info","service":"api-service"}

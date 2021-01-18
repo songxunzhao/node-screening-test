@@ -97,7 +97,7 @@ export class DepositController implements RegistrableController {
     }
 
     async _create(req: Request, res: Response, next: NextFunction): Promise<void> {
-        const { userId: logUserId } = res.locals.jwtPayload;
+        const { id: logUserId } = res.locals.jwtPayload;
         const userRepository: Repository<User> = getRepository(User);
         const depositRepository: Repository<Deposit> = getRepository(Deposit);
 
@@ -294,6 +294,7 @@ export class DepositController implements RegistrableController {
         if(loggedUser.role === 'ADMIN') {
             deposit.userId = userId;
         } else {
+            logger.info(loggedUser.id);
             deposit.userId = loggedUser.id;
         }
         return deposit
